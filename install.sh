@@ -2,8 +2,9 @@
 ################################################################################
 # Original Author:   crombiecrunch
 # Fork Author: manfromafar
-# Current Author: Xavatar
-# Web:     
+# Previous Author: Xavatar
+# Current Author: aanwhs
+# Web: https://aanwhs.github.io 
 #
 # Program:
 #   Install yiimp on Ubuntu 17.10 running Nginx, MariaDB, and php7.1.x

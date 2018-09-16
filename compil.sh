@@ -1,8 +1,10 @@
 #!/bin/bash
 ################################################################################
-# Original Author: crombiecrunch
-# Current Author: Xavatar
-# Web:
+# Original Author:   crombiecrunch
+# Fork Author: manfromafar
+# Previous Author: Xavatar
+# Current Author: aanwhs
+# Web: https://aanwhs.github.io
 #
 # Program:
 #   After entering coin name and github link automatically build coin
